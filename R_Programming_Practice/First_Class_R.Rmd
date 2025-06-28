@@ -1,0 +1,19 @@
+---
+title: "Class12_R_1st class"
+output: pdf_document
+date: "2024-09-15"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This our first class about R programming language..  
+
+```{r}
+print("Hello")
+```
+```{r}
+
+```
+
